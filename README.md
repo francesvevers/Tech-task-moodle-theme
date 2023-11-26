@@ -1,0 +1,1 @@
+This is a Moodle 4.3 theme.  It's a child theme for Boost.  It feature a settings page that allows users to upload a logo image and copyright text.  It should display those two things in the footer but I can't get that bit working.
